@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e318c438.css",
+    "main.js": "/static/js/main.96888ba2.js",
+    "static/media/Redis.png": "/static/media/Redis.4f9d1c935d470ad61b85.png",
+    "static/media/project5.png": "/static/media/project5.ca7eef6728bce1ff8fa3.png",
+    "static/media/project4.png": "/static/media/project4.c92dfe1c3e9b2e8037c7.png",
+    "static/media/project0.png": "/static/media/project0.c1428d8e713d6d131a05.png",
+    "static/media/Linux-Logo-1996-present.png": "/static/media/Linux-Logo-1996-present.f94cd68cdeb53a453ae5.png",
+    "static/media/html-1.png": "/static/media/html-1.e4a42b08f83eb32f7d4a.png",
+    "static/media/project1.png": "/static/media/project1.3918d0dfda899722aa06.png",
+    "static/media/project3.jpg": "/static/media/project3.1e2d1cd80fc39d8e43fe.jpg",
+    "static/media/wmware.png": "/static/media/wmware.ff1d3823111b6731b856.png",
+    "static/media/img2.jpg": "/static/media/img2.82509226bfcc1fad1f2d.jpg",
+    "static/media/project2.png": "/static/media/project2.1a8d3cba131ded109a0a.png",
+    "static/media/mongo.db.png": "/static/media/mongo.db.25c076025642eb39e021.png",
+    "static/media/React.png": "/static/media/React.e8ac95c0f69895795e78.png",
+    "static/media/reduxlogo.png": "/static/media/reduxlogo.fbeccc8de8af073268ef.png",
+    "static/media/Bootstrap_logo.svg.png": "/static/media/Bootstrap_logo.svg.548af472e78c9fd2062a.png",
+    "static/media/node.png": "/static/media/node.a1fcf29f004a33bccb34.png",
+    "static/media/node.js.png": "/static/media/node.js.7d755231146307d9632c.png",
+    "static/media/ITVDN.jpg": "/static/media/ITVDN.a32ce4b746c4b20e7ba0.jpg",
+    "static/media/CSS3_logo.png": "/static/media/CSS3_logo.8fcdcf24637e9629fee1.png",
+    "static/media/js.jpg": "/static/media/js.42419f7b45e97a30e440.jpg",
+    "index.html": "/index.html",
+    "main.e318c438.css.map": "/static/css/main.e318c438.css.map",
+    "main.96888ba2.js.map": "/static/js/main.96888ba2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e318c438.css",
+    "static/js/main.96888ba2.js"
+  ]
+}
